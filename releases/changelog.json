@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "date": "2025-07-08",
+  "download_urls": {
+    "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
+  },
+  "entries": [
+    "✨ Added dark mode support",
+    "🐛 Fixed crash on launch when no internet connection",
+    "🚀 Improved startup time by 40%",
+    "🔧 Updated dependencies to latest stable versions"
+  ]
+}
