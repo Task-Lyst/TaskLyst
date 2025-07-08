@@ -18,14 +18,15 @@
 
 The latest version is available as an AppImage:
 
-➡️ [Download TaskLyst for Linux](https://tasklyst.app/downloads/linux/TaskLyst-x86_64.AppImage)
+➡️ [Download TaskLyst for Linux](https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage)
 
-Or visit the [Releases page](https://github.com/Task-Lyst/TaskList/releases) for version history and changelogs.
+Or visit the [Releases page](https://github.com/Task-Lyst/TaskLyst/releases) for version history and changelogs.
 
 ---
 ## 📋 Changelog
 
-Changelog entries are managed via [Changelog file](https://github.com/Task-Lyst/TaskList/releases/latest/changelog.json).
+
+Changelog entries are managed via [Changelog file](https://github.com/Task-Lyst/TaskLyst/releases/latest/download/changelog.json).
 Each release includes detailed notes in the GitHub release body.
 
 ---
@@ -36,7 +37,7 @@ We’d love your feedback!
 
 If you encounter a bug, have a suggestion, or want to see a new feature added, please open an issue:
 
-👉 [Create an Issue](https://github.com/Task-Lyst/TaskList/issues/new)
+👉 [Create an Issue](https://github.com/Task-Lyst/TaskLyst/issues/new)
 
 Please include as much detail as possible:
 
