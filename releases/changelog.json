@@ -1,6 +1,6 @@
 {
-  "version": "0.0.1",
-  "date": "2025-07-08",
+  "version": "0.0.2",
+  "date": "2025-07-09",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
