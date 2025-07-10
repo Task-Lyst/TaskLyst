@@ -1,10 +1,13 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
   "date": "2025-07-10",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "🐛 Fixed a bug where tasks with null dates were not consistently ordered at the bottom of the table"
+    "🗂️ Added database indexes to improve sorting performance",
+    "🐛 Fixed: rows now sort correctly by start or due date and hour",
+    "🐛 Fixed: tray icon menu now rebuilds only when necessary; also resolved a visual glitch",
+    "🐛 Fixed: resolved an issue with the show/hide option in the tray icon menu"
   ]
 }
