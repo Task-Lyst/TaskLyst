@@ -1,13 +1,14 @@
 {
-  "version": "0.0.2",
-  "date": "2025-07-09",
+  "version": "0.0.3",
+  "date": "2025-07-10",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "✨ Added dark mode support",
-    "🐛 Fixed crash on launch when no internet connection",
-    "🚀 Improved startup time by 40%",
-    "🔧 Updated dependencies to latest stable versions"
+    "🐛 Fixed handling of command-line arguments",
+    "✨ Added option to start the app minimized",
+    "🛎️ Enhanced and updated the system tray menu",
+    "🔄 Added automatic update checks at startup and regular intervals",
+    "🔤 Corrected various naming and spelling errors"
   ]
 }
