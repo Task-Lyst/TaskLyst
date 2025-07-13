@@ -1,13 +1,15 @@
 {
-  "version": "0.0.6",
-  "date": "2025-07-10",
+  "version": "0.0.7",
+  "date": "2025-07-13",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "🗂️ Added database indexes to improve sorting performance",
-    "🐛 Fixed: rows now sort correctly by start or due date and hour",
-    "🐛 Fixed: tray icon menu now rebuilds only when necessary; also resolved a visual glitch",
-    "🐛 Fixed: resolved an issue with the show/hide option in the tray icon menu"
+    "✨ New feature: Configure column order and toggle visibility in the task table",
+    "💾 New feature: Added support for saving and restoring database backups",
+    "🐛 Bug fix: Improved keyboard navigation using up/down arrows, and refined tab order between components",
+    "🌍 Bug fix: Added missing localizations for several text elements",
+    "🚀 Improved user experience: cell date, highlight divider, description icon, removed flickering",
+    "⬆️ Updated several package dependencies"
   ]
 }
