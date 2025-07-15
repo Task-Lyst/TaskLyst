@@ -1,15 +1,16 @@
 {
-  "version": "0.0.7",
-  "date": "2025-07-13",
+  "version": "0.0.8",
+  "date": "2025-07-15",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "✨ New feature: Configure column order and toggle visibility in the task table",
-    "💾 New feature: Added support for saving and restoring database backups",
-    "🐛 Bug fix: Improved keyboard navigation using up/down arrows, and refined tab order between components",
-    "🌍 Bug fix: Added missing localizations for several text elements",
-    "🚀 Improved user experience: cell date, highlight divider, description icon, removed flickering",
-    "⬆️ Updated several package dependencies"
+    "↔️ Feature: resizable table columns",
+    "✨ Improvement: Automatically select newly created tasks",
+    "✨ Improvement: Automatically select the next or previous task after deleting one",
+    "📊 Feature: Show the number of currently selected tasks in the task table",
+    "📄 Feature: Added a licenses page",
+    "🐛 Bug fix: Table without focus always jumped to the first row, even when clicking another row",
+    "🐛 Bug fix: Prevented overflow issues in some dialogs"
   ]
 }
