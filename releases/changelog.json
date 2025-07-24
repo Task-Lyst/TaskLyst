@@ -1,16 +1,12 @@
 {
-  "version": "0.0.8",
-  "date": "2025-07-15",
+  "version": "0.0.9",
+  "date": "2025-07-24",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "↔️ Feature: resizable table columns",
-    "✨ Improvement: Automatically select newly created tasks",
-    "✨ Improvement: Automatically select the next or previous task after deleting one",
-    "📊 Feature: Show the number of currently selected tasks in the task table",
-    "📄 Feature: Added a licenses page",
-    "🐛 Bug fix: Table without focus always jumped to the first row, even when clicking another row",
-    "🐛 Bug fix: Prevented overflow issues in some dialogs"
+    "📅 Feature: Added a setting to choose between date picker or calendar for date selection",
+    "✨ Improvements: Redesigned dialogs, smoother menu animations, fixed text flickering, and implemented saving/restoring of window size and position",
+    "🐛 Bug Fixes: Fixed task description not refreshing correctly, accounted for column visibility and position in sorting, and resolved various minor issues"
   ]
 }
