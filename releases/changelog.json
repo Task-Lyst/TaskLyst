@@ -1,12 +1,12 @@
 {
-  "version": "0.0.9",
+  "version": "0.1.0",
   "date": "2025-07-24",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "📅 Feature: Added a setting to choose between date picker or calendar for date selection",
-    "✨ Improvements: Redesigned dialogs, smoother menu animations, fixed text flickering, and implemented saving/restoring of window size and position",
-    "🐛 Bug Fixes: Fixed task description not refreshing correctly, accounted for column visibility and position in sorting, and resolved various minor issues"
+    "📅 Feature: Middle-click on system tray icon toggles app visibility (show/hide)",
+    "✨ Improvement: Better support for server-side header bars in KDE",
+    "🐛 Bug Fixes: Fixed issues with the menu tag dialog and improved saving/restoring of window size and position"
   ]
 }
