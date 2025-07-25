@@ -1,12 +1,10 @@
 {
-  "version": "0.1.0",
-  "date": "2025-07-24",
+  "version": "0.1.1",
+  "date": "2025-07-25",
   "download_urls": {
     "linux_x86_64": "https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage"
   },
   "entries": [
-    "📅 Feature: Middle-click on system tray icon toggles app visibility (show/hide)",
-    "✨ Improvement: Better support for server-side header bars in KDE",
-    "🐛 Bug Fixes: Fixed issues with the menu tag dialog and improved saving/restoring of window size and position"
+    "✨ Improvements: enhanced support for window positioning, sizing, window icons, and system tray icons"
   ]
 }
