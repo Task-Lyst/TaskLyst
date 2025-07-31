@@ -25,7 +25,7 @@ The latest version are available for:
 
 ➡️ [Download TaskLyst for Linux](https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage)
 
-Or visit the [Releases page](tps://github.com/Task-Lyst/TaskLyst/releases) for version history and changelogs.
+Or visit the [Releases page](https://github.com/Task-Lyst/TaskLyst/releases) for version history and changelogs.
 
 ---
 ## 📋 Changelog
