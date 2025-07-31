@@ -2,31 +2,36 @@
 
 **TaskLyst** is a simple, elegant, and powerful multiplatform desktop task manager. Designed for productivity without distractions.
 
+[Visit website](https://tasklyst.app)
+
 ---
 ## 🚀 Features
 
-- ✅ Clean and minimal interface
-- 🗂️ Organize tasks by category or priority
-- ⏰ Due dates and reminders
-- 🖥️ Native Linux desktop support (AppImage)
-- 🌙 Light & Dark mode support
-- 📦 Offline-first experience
+- 🖥️   Cross-platform: macOS, Linux, Windows
+- 🎯   Minimalist interface with dark/light modes
+- 📴   Offline-first – no forced accounts or cloud sync
+- 🧩   Custom task types & tags
+- 📊   Configurable task table (columns, order, etc.)
+- 🕓   Start/due times, priority, completion tracking
+- 💾   Backup & restore support
+- ⚙️   Launches at boot, tray icon for fast access
+- 🔔   Checks for updates automatically
 
 ---
 
 ## 📦 Download
 
-The latest version is available as an AppImage:
+The latest version are available for:
 
 ➡️ [Download TaskLyst for Linux](https://github.com/Task-Lyst/TaskLyst/releases/latest/download/TaskLyst-x86_64.AppImage)
 
-Or visit the [Releases page](https://github.com/Task-Lyst/TaskLyst/releases) for version history and changelogs.
+Or visit the [Releases page](tps://github.com/Task-Lyst/TaskLyst/releases) for version history and changelogs.
 
 ---
 ## 📋 Changelog
 
 
-Changelog entries are managed via [Changelog file](https://github.com/Task-Lyst/TaskLyst/releases/latest/download/changelog.json).
+Changelog entries are managed via [Changelog file](http://github.com/Task-Lyst/TaskLyst/blob/main/releases/changelog.json).
 Each release includes detailed notes in the GitHub release body.
 
 ---
