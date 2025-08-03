@@ -108,11 +108,24 @@
     }
   },
   "windows_64": {
-    "latest": "",
-    "releases": {}
+    "latest": "0.1.2",
+    "releases": {
+      "0.1.2": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.2/TaskLyst-x86_64-0.1.2-Installer.exe",
+        "date": "2025-08-03T21:20:11Z",
+        "entries": [
+          "✨ Improvements: new change log JSON structure with more information",
+          "🗒️ Show te complete change log in the update dialog"
+        ]
+      }
+    }
   },
   "macos_64": {
     "latest": "",
     "releases": {}
-  }
+  },
+  "entries": [
+    "✨ Improvements: new change log JSON structure with more information",
+    "🗒️ Show te complete change log in the update dialog"
+  ]
 }
