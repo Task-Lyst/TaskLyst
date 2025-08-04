@@ -1,7 +1,15 @@
 {
   "linux_64": {
-    "latest": "0.1.1",
+    "latest": "0.1.2",
     "releases": {
+      "0.1.2": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.2/TaskLyst-x86_64.AppImage",
+        "date": "2025-08-04T07:45:09Z",
+        "entries": [
+          "✨ Improvements: new change log JSON structure with more information",
+          "🗒️ Show te complete change log in the update dialog"
+        ]
+      },
       "0.1.1": {
         "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.1/TaskLyst-x86_64.AppImage",
         "date": "2025-07-31T00:00:00Z",
@@ -123,5 +131,9 @@
   "macos_64": {
     "latest": "",
     "releases": {}
-  }
+  },
+  "entries": [
+    "✨ Improvements: new change log JSON structure with more information",
+    "🗒️ Show te complete change log in the update dialog"
+  ]
 }
