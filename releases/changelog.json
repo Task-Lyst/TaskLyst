@@ -1,19 +1,127 @@
 {
-  "entries": [
-    "✨ Improvements: new change log JSON structure with more information",
-    "🗒️ Show te complete change log in the update dialog"
-  ],
   "linux_64": {
+    "latest": "0.1.1",
+    "releases": {
+      "0.1.1": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.1/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-31T00:00:00Z",
+        "entries": [
+          "✨ Improvements: enhanced support for window positioning, sizing, window icons, and system tray icons"
+        ]
+      },
+      "0.1.0": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.0/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-24T00:00:00Z",
+        "entries": [
+          "📅 Feature: Middle-click on system tray icon toggles app visibility (show/hide)",
+          "✨ Improvement: Better support for server-side header bars in KDE",
+          "🐛 Bug Fixes: Fixed issues with the menu tag dialog and improved saving/restoring of window size and position"
+        ]
+      },
+      "0.0.9": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.9/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-23T00:00:00Z",
+        "entries": [
+          "📅 Feature: Added a setting to choose between date picker or calendar for date selection",
+          "✨ Improvements: Redesigned dialogs, smoother menu animations, fixed text flickering, and implemented saving/restoring of window size and position",
+          "🐛 Bug Fixes: Fixed task description not refreshing correctly, accounted for column visibility and position in sorting, and resolved various minor issues"
+        ]
+      },
+      "0.0.8": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.8/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-22T00:00:00Z",
+        "entries": [
+          "↔️ Feature: resizable table columns",
+          "✨ Improvement: Automatically select newly created tasks",
+          "✨ Improvement: Automatically select the next or previous task after deleting one",
+          "📊 Feature: Show the number of currently selected tasks in the task table",
+          "📄 Feature: Added a licenses page",
+          "🐛 Bug fix: Table without focus always jumped to the first row, even when clicking another row",
+          "🐛 Bug fix: Prevented overflow issues in some dialogs"
+        ]
+      },
+      "0.0.7": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.7/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-21T00:00:00Z",
+        "entries": [
+          "✨ New feature: Configure column order and toggle visibility in the task table",
+          "💾 New feature: Added support for saving and restoring database backups",
+          "🐛 Bug fix: Improved keyboard navigation using up/down arrows, and refined tab order between components",
+          "🌍 Bug fix: Added missing localizations for several text elements",
+          "🚀 Improved user experience: cell date, highlight divider, description icon, removed flickering",
+          "⬆️ Updated several package dependencies"
+        ]
+      },
+      "0.0.6": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.6/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-20T00:00:00Z",
+        "entries": [
+          "🗂️ Added database indexes to improve sorting performance",
+          "🐛 Fixed: rows now sort correctly by start or due date and hour",
+          "🐛 Fixed: tray icon menu now rebuilds only when necessary; also resolved a visual glitch",
+          "🐛 Fixed: resolved an issue with the show/hide option in the tray icon menu"
+        ]
+      },
+      "0.0.5": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.5/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-19T00:00:00Z",
+        "entries": [
+          "🐛 Fixed a bug where tasks with null dates were not consistently ordered at the bottom of the table"
+        ]
+      },
+      "0.0.4": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.4/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-18T00:00:00Z",
+        "entries": [
+          "🔄 Bug fixed in automatic update checks"
+        ]
+      },
+      "0.0.3": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.3/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-17T00:00:00Z",
+        "entries": [
+          "🐛 Fixed handling of command-line arguments",
+          "✨ Added option to start the app minimized",
+          "🛎️ Enhanced and updated the system tray menu",
+          "🔄 Added automatic update checks at startup and regular intervals",
+          "🔤 Corrected various naming and spelling errors"
+        ]
+      },
+      "0.0.2": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.2/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-16T00:00:00Z",
+        "entries": [
+          "🔄 Added auto-update support on Linux (AppImage)",
+          "🛠️ Many bug fixes and general improvements"
+        ]
+      },
+      "0.0.1": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.0.1/TaskLyst-x86_64.AppImage",
+        "date": "2025-07-15T00:00:00Z",
+        "entries": [
+          "✨ Added dark mode support",
+          "🐛 Fixed crash on launch when no internet connection",
+          "🚀 Improved startup time by 40%",
+          "🔧 Updated dependencies to latest stable versions"
+        ]
+      }
+    }
+  },
+  "windows_64": {
+    "latest": "0.1.2",
     "releases": {
       "0.1.2": {
-        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.2/TaskLyst-x86_64.AppImage",
-        "date": "2025-08-04T06:57:40Z",
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.2/TaskLyst-x86_64-0.1.2-Installer.exe",
+        "date": "2025-08-03T21:20:11Z",
         "entries": [
           "✨ Improvements: new change log JSON structure with more information",
           "🗒️ Show te complete change log in the update dialog"
         ]
       }
-    },
-    "latest": "0.1.2"
+    }
+  },
+  "macos_64": {
+    "latest": "",
+    "releases": {}
   }
 }
