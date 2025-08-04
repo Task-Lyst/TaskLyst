@@ -123,8 +123,15 @@
     }
   },
   "windows_64": {
-    "latest": "0.1.2",
+    "latest": "0.1.3",
     "releases": {
+      "0.1.3": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.3/TaskLyst-x86_64-0.1.3-Installer.exe",
+        "date": "2025-08-04T10:40:40Z",
+        "entries": [
+          "✨ Improvements: better design for the initial database data. Avoided using a large-size external file."
+        ]
+      },
       "0.1.2": {
         "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.2/TaskLyst-x86_64-0.1.2-Installer.exe",
         "date": "2025-08-03T21:20:11Z",
@@ -140,8 +147,6 @@
     "releases": {}
   },
   "entries": [
-    "✨ Improvements: new change log JSON structure with more information",
-    "🗒️ Show te complete change log in the update dialog",
     "✨ Improvements: better design for the initial database data. Avoided using a large-size external file."
   ]
 }
