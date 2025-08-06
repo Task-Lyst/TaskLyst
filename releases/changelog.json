@@ -1,7 +1,17 @@
 {
   "linux_64": {
-    "latest": "0.1.3",
+    "latest": "0.1.4",
     "releases": {
+      "0.1.4": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.4/TaskLyst-x86_64.AppImage",
+        "date": "2025-08-06T19:23:51Z",
+        "entries": [
+          "🛎️ Improvements: Do not reinitialize the tray icon when no needed.",
+          "↔️ Improvements: Spacing and layout in some dialogs.",
+          "🐛 Bug fixed: Close update installer file when downloaded.",
+          "🐛 Bug fixed: Properly get app update information."
+        ]
+      },
       "0.1.3": {
         "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.3/TaskLyst-x86_64.AppImage",
         "date": "2025-08-04T10:08:09Z",
@@ -147,6 +157,10 @@
     "releases": {}
   },
   "entries": [
-    "✨ Improvements: better design for the initial database data. Avoided using a large-size external file."
+    "✨ Improvements: better design for the initial database data. Avoided using a large-size external file.",
+    "🛎️ Improvements: Do not reinitialize the tray icon when no needed.",
+    "↔️ Improvements: Spacing and layout in some dialogs.",
+    "🐛 Bug fixed: Close update installer file when downloaded.",
+    "🐛 Bug fixed: Properly get app update information."
   ]
 }
