@@ -1,7 +1,17 @@
 {
   "linux_64": {
-    "latest": "0.1.4",
+    "latest": "0.1.5",
     "releases": {
+      "0.1.5": {
+        "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.5/TaskLyst-x86_64.AppImage",
+        "date": "2025-08-07T10:22:51Z",
+        "entries": [
+          "✍️ New feature: Users can propose and vote for new features.",
+          "✨ Improvement: show snack bar message when opening a link in the browser.",
+          "✨ Improvement: Link to report app bugs.",
+          "🐛 Bug fixed: start minimized."
+        ]
+      },
       "0.1.4": {
         "url": "https://github.com/Task-Lyst/TaskLyst/releases/download/v0.1.4/TaskLyst-x86_64.AppImage",
         "date": "2025-08-06T19:23:51Z",
@@ -170,6 +180,10 @@
     "🛎️ Improvements: Do not reinitialize the tray icon when no needed.",
     "↔️ Improvements: Spacing and layout in some dialogs.",
     "🐛 Bug fixed: Close update installer file when downloaded.",
-    "🐛 Bug fixed: Properly get app update information."
+    "🐛 Bug fixed: Properly get app update information.",
+    "✍️ New feature: Users can propose and vote for new features.",
+    "✨ Improvement: show snack bar message when opening a link in the browser.",
+    "✨ Improvement: Link to report app bugs.",
+    "🐛 Bug fixed: start minimized."
   ]
 }
